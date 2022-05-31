@@ -2,8 +2,6 @@
 
 안녕하세요. 이로운 것을 만드는 앱 개발자 김미주입니다. :raised_hands: 
 
-# 🔭 현재 [MEVN-CLI](https://github.com/madlabsinc/mevn-cli) 
-
 ---
 
 ### :zap: Recent Activity
