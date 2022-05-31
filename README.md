@@ -2,11 +2,11 @@
 
 안녕하세요. 이로운 것을 만드는 앱 개발자 김미주입니다. :raised_hands: 
 
----
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!--
 **compuTasha/compuTasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
