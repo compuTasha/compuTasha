@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/pull/25) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
-2. 💪 Opened PR [#23](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/pull/23) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
-3. ❗️ Closed issue [#20](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/issues/20) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
-4. 🗣 Commented on [#20](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/issues/20) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
-5. 🗣 Commented on [#6](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/issues/6) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
+1. ❗️ Opened issue [#6](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt/issues/6) in [DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt](https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-WorkItTalkIt)
+2. ❗️ Opened issue [#7](https://github.com/GDSC-KNU/TIL-Frontend/issues/7) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
+3. ❗️ Closed issue [#5](https://github.com/GDSC-KNU/TIL-Frontend/issues/5) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
+4. 🎉 Merged PR [#6](https://github.com/GDSC-KNU/TIL-Frontend/pull/6) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
+5. 💪 Opened PR [#6](https://github.com/GDSC-KNU/TIL-Frontend/pull/6) in [GDSC-KNU/TIL-Frontend](https://github.com/GDSC-KNU/TIL-Frontend)
 <!--END_SECTION:activity-->
 
 ---
