@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/22) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-2. ❗️ Opened issue [#13](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/13) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-3. 🎉 Merged PR [#5](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/pull/5) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-4. ❗️ Closed issue [#4](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/4) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-5. ❗️ Opened issue [#6](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/6) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+1. 🗣 Commented on [#26](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/26) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+2. 🎉 Merged PR [#25](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/pull/25) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+3. ❗️ Closed issue [#22](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/22) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+4. 💪 Opened PR [#25](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/pull/25) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+5. ❗️ Opened issue [#22](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/22) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
 <!--END_SECTION:activity-->
 
 ---
