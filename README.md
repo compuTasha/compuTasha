@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/inflearn/infcon2022-guestbook/pull/179) in [inflearn/infcon2022-guestbook](https://github.com/inflearn/infcon2022-guestbook)
-2. 🗣 Commented on [#82](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/82) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-3. 🗣 Commented on [#79](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/79) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-4. ❗️ Opened issue [#73](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/73) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
-5. 🗣 Commented on [#70](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception/issues/70) in [DeveloperAcademy-POSTECH/MC3-Team13-Inception](https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-Inception)
+1. ❗️ Opened issue [#3](https://github.com/SnoopClass/Discussion/issues/3) in [SnoopClass/Discussion](https://github.com/SnoopClass/Discussion)
+2. 🎉 Merged PR [#4](https://github.com/SnoopClass/Alola-Student-IKEA/pull/4) in [SnoopClass/Alola-Student-IKEA](https://github.com/SnoopClass/Alola-Student-IKEA)
+3. 🗣 Commented on [#4](https://github.com/SnoopClass/Alola-Student-IKEA/issues/4) in [SnoopClass/Alola-Student-IKEA](https://github.com/SnoopClass/Alola-Student-IKEA)
+4. 🗣 Commented on [#2](https://github.com/SnoopClass/Discussion/issues/2) in [SnoopClass/Discussion](https://github.com/SnoopClass/Discussion)
+5. 🗣 Commented on [#4](https://github.com/SnoopClass/Alola-Student-IKEA/issues/4) in [SnoopClass/Alola-Student-IKEA](https://github.com/SnoopClass/Alola-Student-IKEA)
 <!--END_SECTION:activity-->
 
 ---
