@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/compuTasha/GatheRockProto/issues/1) in [compuTasha/GatheRockProto](https://github.com/compuTasha/GatheRockProto)
-2. ❗️ Opened issue [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-3. ❗️ Closed issue [#18](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/18) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-4. 🎉 Merged PR [#19](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/19) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-5. 🗣 Commented on [#19](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/19) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+1. ❗️ Opened issue [#31](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/31) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+2. 🗣 Commented on [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+3. ❗️ Closed issue [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+4. ❗️ Opened issue [#1](https://github.com/compuTasha/GatheRockProto/issues/1) in [compuTasha/GatheRockProto](https://github.com/compuTasha/GatheRockProto)
+5. ❗️ Opened issue [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
 <!--END_SECTION:activity-->
 
 ---
