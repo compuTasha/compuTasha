@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-2. ❗️ Opened issue [#33](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/33) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-3. ❗️ Opened issue [#31](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/31) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-4. 🗣 Commented on [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-5. ❗️ Closed issue [#23](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/23) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+1. ❗️ Closed issue [#33](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/33) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+2. 🎉 Merged PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+3. 💪 Opened PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+4. ❗️ Opened issue [#33](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/33) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+5. ❗️ Opened issue [#31](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/31) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
 <!--END_SECTION:activity-->
 
 ---
