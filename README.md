@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/46) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-2. 🗣 Commented on [#3](https://github.com/compuTasha/blog-comments/issues/3) in [compuTasha/blog-comments](https://github.com/compuTasha/blog-comments)
-3. ❗️ Closed issue [#33](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/33) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-4. 🎉 Merged PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-5. 💪 Opened PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+1. ❗️ Opened issue [#47](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/47) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+2. 💪 Opened PR [#46](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/46) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+3. 🗣 Commented on [#3](https://github.com/compuTasha/blog-comments/issues/3) in [compuTasha/blog-comments](https://github.com/compuTasha/blog-comments)
+4. ❗️ Closed issue [#33](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/33) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+5. 🎉 Merged PR [#34](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/34) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
 <!--END_SECTION:activity-->
 
 ---
