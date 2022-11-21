@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/49) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-2. ❗️ Closed issue [#31](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/31) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-3. 🎉 Merged PR [#46](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/46) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-4. 🗣 Commented on [#49](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/49) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-5. 🗣 Commented on [#46](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/46) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+1. 🗣 Commented on [#61](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/61) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+2. 🗣 Commented on [#49](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/49) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+3. ❗️ Closed issue [#31](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/31) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+4. 🎉 Merged PR [#46](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/46) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+5. 🗣 Commented on [#49](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/49) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
 <!--END_SECTION:activity-->
 
 ---
