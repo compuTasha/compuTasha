@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#98](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/98) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-2. ❗️ Opened issue [#97](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/97) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-3. 💪 Opened PR [#96](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/96) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-4. ❗️ Closed issue [#47](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/47) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
-5. 🎉 Merged PR [#75](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/75) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+1. ❗️ Opened issue [#103](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/103) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+2. 💪 Opened PR [#102](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/102) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+3. ❗️ Opened issue [#98](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/98) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+4. ❗️ Opened issue [#97](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/issues/97) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
+5. 💪 Opened PR [#96](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock/pull/96) in [DeveloperAcademy-POSTECH/MacC-GetARock](https://github.com/DeveloperAcademy-POSTECH/MacC-GetARock)
 <!--END_SECTION:activity-->
 
 ---
