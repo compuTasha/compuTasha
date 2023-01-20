@@ -6,11 +6,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/extreme-rock/GetARock-iOS/issues/31) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
-2. ❗️ Opened issue [#20](https://github.com/extreme-rock/GetARock-iOS/issues/20) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
-3. 💪 Opened PR [#17](https://github.com/extreme-rock/GetARock-iOS/pull/17) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
-4. ❗️ Closed issue [#9](https://github.com/extreme-rock/GetARock-iOS/issues/9) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
-5. 🎉 Merged PR [#12](https://github.com/extreme-rock/GetARock-iOS/pull/12) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
+1. 🗣 Commented on [#17](https://github.com/extreme-rock/GetARock-iOS/issues/17) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
+2. 🗣 Commented on [#31](https://github.com/extreme-rock/GetARock-iOS/issues/31) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
+3. ❗️ Opened issue [#20](https://github.com/extreme-rock/GetARock-iOS/issues/20) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
+4. 💪 Opened PR [#17](https://github.com/extreme-rock/GetARock-iOS/pull/17) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
+5. ❗️ Closed issue [#9](https://github.com/extreme-rock/GetARock-iOS/issues/9) in [extreme-rock/GetARock-iOS](https://github.com/extreme-rock/GetARock-iOS)
 <!--END_SECTION:activity-->
 
 ---
